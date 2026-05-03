@@ -49,3 +49,15 @@ SAML SSO + SCIM Provisioning
 AWS IAM Identity Center
   ↓
 Permission Sets / AWS Access Portal
+
+
+iam-lifecycle-entra-aws/
+├── .gitignore
+├── docs/
+├── diagrams/
+├── src/
+├── sample-data/
+│   └── hr-sample.csv
+├── logs/
+│   └── sanitized-example-run.log
+└── README.md
