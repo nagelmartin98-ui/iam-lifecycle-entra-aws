@@ -1,0 +1,21 @@
+employeeId,firstName,lastName,userPrincipalName,department,jobTitle,status,manager
+1001,Alice,Becker,alice.becker@yourtenant.onmicrosoft.com,IT,Junior Admin,active,max.schulz@yourtenant.onmicrosoft.com
+1002,Max,Schulz,max.schulz@yourtenant.onmicrosoft.com,Finance,Analyst,active,
+1003,Sara,Neumann,sara.neumann@yourtenant.onmicrosoft.com,HR,Coordinator,active,max.schulz@yourtenant.onmicrosoft.com
+1004,Tom,Wagner,tom.wagner@yourtenant.onmicrosoft.com,IT,Cloud Admin,active,max.schulz@yourtenant.onmicrosoft.com
+1005,Lena,Hoffmann,lena.hoffmann@yourtenant.onmicrosoft.com,IT,Junior Admin,leaver,max.schulz@yourtenant.onmicrosoft.com
+1006,David,Klein,david.klein@yourtenant.onmicrosoft.com,Finance,Analyst,mover,max.schulz@yourtenant.onmicrosoft.com
+1007,Julia,Fischer,julia.fischer@yourtenant.onmicrosoft.com,HR,Coordinator,active,sara.neumann@yourtenant.onmicrosoft.com
+1008,Mehmet,Yilmaz,mehmet.yilmaz@yourtenant.onmicrosoft.com,IT,Junior Admin,active,tom.wagner@yourtenant.onmicrosoft.com
+1009,Nina,Weber,nina.weber@yourtenant.onmicrosoft.com,Finance,Analyst,active,max.schulz@yourtenant.onmicrosoft.com
+1010,Paul,Richter,paul.richter@yourtenant.onmicrosoft.com,IT,Cloud Admin,active,tom.wagner@yourtenant.onmicrosoft.com
+1011,Laura,Schmidt,laura.schmidt@yourtenant.onmicrosoft.com,HR,Coordinator,leaver,sara.neumann@yourtenant.onmicrosoft.com
+1012,Jonas,Braun,jonas.braun@yourtenant.onmicrosoft.com,Finance,Analyst,rehire,max.schulz@yourtenant.onmicrosoft.com
+1013,Maria,Koch,maria.koch@yourtenant.onmicrosoft.com,IT,Junior Admin,active,tom.wagner@yourtenant.onmicrosoft.com
+1014,Tim,Krueger,tim.krueger@yourtenant.onmicrosoft.com,HR,Coordinator,active,sara.neumann@yourtenant.onmicrosoft.com
+1015,Sophie,Wolf,sophie.wolf@yourtenant.onmicrosoft.com,Finance,Analyst,active,max.schulz@yourtenant.onmicrosoft.com
+1016,Invalid,Department,invalid.department@yourtenant.onmicrosoft.com,Marketing,Analyst,active,max.schulz@yourtenant.onmicrosoft.com
+1017,Missing,JobTitle,missing.jobtitle@yourtenant.onmicrosoft.com,IT,,active,tom.wagner@yourtenant.onmicrosoft.com
+1001,Duplicate,EmployeeId,duplicate.employeeid@yourtenant.onmicrosoft.com,IT,Junior Admin,active,tom.wagner@yourtenant.onmicrosoft.com
+1019,Wrong,Status,wrong.status@yourtenant.onmicrosoft.com,Finance,Analyst,onboarding,max.schulz@yourtenant.onmicrosoft.com
+1020,No,Manager,no.manager@yourtenant.onmicrosoft.com,IT,Junior Admin,active,
