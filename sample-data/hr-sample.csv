@@ -19,3 +19,13 @@ employeeId,firstName,lastName,userPrincipalName,department,jobTitle,status,manag
 1001,Duplicate,EmployeeId,duplicate.employeeid@yourtenant.onmicrosoft.com,IT,Junior Admin,active,tom.wagner@yourtenant.onmicrosoft.com
 1019,Wrong,Status,wrong.status@yourtenant.onmicrosoft.com,Finance,Analyst,onboarding,max.schulz@yourtenant.onmicrosoft.com
 1020,No,Manager,no.manager@yourtenant.onmicrosoft.com,IT,Junior Admin,active,
+1021,Kevin,Mueller,kevin.mueller@yourtenant.onmicrosoft.com,IT,Junior Admin,active,tom.wagner@yourtenant.onmicrosoft.com
+1022,Anna,Hartmann,anna.hartmann@yourtenant.onmicrosoft.com,Finance,Analyst,active,max.schulz@yourtenant.onmicrosoft.com
+1023,Robert,Schneider,robert.schneider@yourtenant.onmicrosoft.com,HR,Coordinator,active,sara.neumann@yourtenant.onmicrosoft.com
+1024,Elena,Vogel,elena.vogel@yourtenant.onmicrosoft.com,IT,Cloud Admin,mover,tom.wagner@yourtenant.onmicrosoft.com
+1025,Felix,Bauer,felix.bauer@yourtenant.onmicrosoft.com,Finance,Analyst,leaver,max.schulz@yourtenant.onmicrosoft.com
+1026,Miriam,Lange,miriam.lange@yourtenant.onmicrosoft.com,HR,Coordinator,rehire,sara.neumann@yourtenant.onmicrosoft.com
+1027,Simon,Neumann,simon.neumann@yourtenant.onmicrosoft.com,IT,Junior Admin,active,tom.wagner@yourtenant.onmicrosoft.com
+1028,Clara,Werner,clara.werner@yourtenant.onmicrosoft.com,Finance,Analyst,mover,max.schulz@yourtenant.onmicrosoft.com
+1029,Daniel,Schwarz,daniel.schwarz@yourtenant.onmicrosoft.com,IT,Cloud Admin,active,tom.wagner@yourtenant.onmicrosoft.com
+1030,Emily,Krause,emily.krause@yourtenant.onmicrosoft.com,HR,Coordinator,leaver,sara.neumann@yourtenant.onmicrosoft.com
