@@ -1,0 +1,35 @@
+# Enviroment and secret files
+.env
+*.secret
+*.key
+*.pem
+*.pfx
+*.p12
+
+# Tokens and credentials
+*token*
+*secret*
+*password*
+credentials.json
+
+# Logs
+logs/*.log
+!logs/sanitized-example-run.log
+
+# PowerShell temporary files
+*.ps1xml
+*.pssc
+*.psrc
+
+# OS and editor files
+.DS_Store
+Thumbs.db
+.vscode/
+
+# Local working files
+00-working-notes/
+01-screenshots/
+02-logs/
+03-code-snippets/
+04-diagrams/
+05-final-pdf/
